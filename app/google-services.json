@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339516674892",
+    "firebase_url": "https://movi-48be4-default-rtdb.firebaseio.com",
+    "project_id": "movi-48be4",
+    "storage_bucket": "movi-48be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339516674892:android:c011022546e31dbe99b5e9",
+        "android_client_info": {
+          "package_name": "com.example.newday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339516674892-2o326gcu9iqt8ri65r116r7r72cml88r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newday",
+            "certificate_hash": "08691c6dffd9b065bf017faf1d480ddd545a26c3"
+          }
+        },
+        {
+          "client_id": "339516674892-v3kc0lg9ecrkimfk97fc0v8hlvi8vhpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoYk0GrUPBQrGv43sqbYyUUKawz48dZd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339516674892-v3kc0lg9ecrkimfk97fc0v8hlvi8vhpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
