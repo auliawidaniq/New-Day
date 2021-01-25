@@ -108,7 +108,7 @@ public class HomeActivity extends AppCompatActivity implements MovieItemClickLis
 
     private void Slider() {
         lstSlides = new ArrayList<>() ;
-        lstSlides.add(new Slide(R.drawable.slide1,"Enola Holmes"));
+        lstSlides.add(new Slide(R.drawable.slide1,"Enola Holmes 2020"));
         lstSlides.add(new Slide(R.drawable.c2,"Safety"));
         lstSlides.add(new Slide(R.drawable.high2,"High School Musical:\nThe Musical:The Holiday Special"));
 
